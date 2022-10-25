@@ -1,5 +1,5 @@
 - 👋 Yo, I’m @GeniusPRO271
-- 👀 Like to do Random app for things I need in my life 
+- 👀 Like to do Random apps for things I need in my life 
 - 🌱 Trying to do stuff with React Native 
 - 📫 mail:benjamintoroj@gmail.com
 
