@@ -10,7 +10,6 @@
 ✍️ &nbsp;In my free time, I work on my future personal project.\
 💬 &nbsp;Feel free to reach out to me for consulting and volunteering, or just for some interesting discussion.\
 ✉️ &nbsp;You can send me an email at benjamintoroj@gmail.com! I wll respond as soon as I can.\
-📄 &nbsp;My [Resume](https://docs.google.com/document/d/1ZeTJIIYn5ly8Sr-6xW3vCla_5wvBvdTZBbGlnMj1Dio/edit#heading=h.if4faxxra181) for more details about me.
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
