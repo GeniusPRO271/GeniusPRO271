@@ -9,9 +9,10 @@
 🌱 &nbsp;I'm on track for learning more about Back-End and Machine Learning.\
 ✍️ &nbsp;In my free time, I work on my future personal project.\
 💬 &nbsp;Feel free to reach out to me for consulting and volunteering, or just for some interesting discussion.\
-✉️ &nbsp;You can send me an email at benjamintoroj@gmail.com! I wll respond as soon as I can.\
+✉️ &nbsp;You can send me an email at benjamintoroj@gmail.com! I wll respond as soon as I can.
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+<img alt="Night Coding" src="https://github.com/GeniusPRO271/md-gifs/blob/main/frog.gif" align="right"/>
+
 
 ### 🛠 &nbsp;Skills
 ![C++](https://img.shields.io/badge/-C++-blue?style=flat&logo=cplusplus)&nbsp;
