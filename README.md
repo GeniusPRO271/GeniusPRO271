@@ -5,7 +5,7 @@
 [![LinkedIn](https://img.shields.io/badge/-Benjamin%20Toro-0077B5?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/benjamin-toro-25266b259)
 
 💡 &nbsp;I like to explore new technologies and develop software and Apps for my daily use.\
-🎓 &nbsp;I'm currently studying Software Engineering at Tomsk State University.\
+🎓 &nbsp;Graduated in Software Engineering from Tomsk State University.\
 🌱 &nbsp;I'm on track for learning more about Back-End and Machine Learning.\
 ✍️ &nbsp;In my free time, I work on my future personal project.\
 💬 &nbsp;Feel free to reach out to me for consulting and volunteering, or just for some interesting discussion.\
