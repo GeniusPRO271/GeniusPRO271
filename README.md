@@ -8,7 +8,7 @@
 &nbsp;**Currently desperately looking for a job** \
 &nbsp;You can send me an email at benjamintoroj@gmail.com (please do)
 
-<img alt="Night Coding" src="https://github.com/GeniusPRO271/md-gifs/blob/main/frog.gif" align="right"/>
+<img alt="frog" src="https://github.com/GeniusPRO271/md-gifs/blob/main/frog.gif" align="right"/>
 
 
 ### 🛠 &nbsp;Skills
