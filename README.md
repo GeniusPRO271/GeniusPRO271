@@ -5,7 +5,6 @@
 
 &nbsp;I like making fun stuff with C++, Go and TypeScript \
 &nbsp;Graduated in Software Engineering from Tomsk State University. \
-&nbsp;**Currently desperately looking for a job** \
 &nbsp;You can send me an email at benjamintoroj@gmail.com (please do)
 
 <img alt="frog" src="https://github.com/GeniusPRO271/md-gifs/blob/main/frog.gif" align="right"/>
