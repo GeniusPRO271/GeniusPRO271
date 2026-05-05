@@ -4,7 +4,7 @@
 [![LinkedIn](https://img.shields.io/badge/-Benjamin%20Toro-0077B5?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/benjamin-toro-25266b259)
 
 &nbsp;I like making fun stuff with C++, Go and TypeScript \
-&nbsp;Graduated in Software Engineering from Tomsk State University. \
+&nbsp;Graduated as Software Engineering. \
 &nbsp;You can send me an email at benjamintoroj@gmail.com (please do) \
 &nbsp;Write to my email for job opportunities 
 
